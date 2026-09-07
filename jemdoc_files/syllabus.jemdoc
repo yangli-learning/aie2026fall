@@ -1,0 +1,96 @@
+# jemdoc: menu{MENU}{syllabus.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+# == AIE1901 (Fall 2026): Course Syllabus
+
+[index.html {{<span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>}} Back to course homepage]
+
+=== Course Overview
+
+~~~
+{}{table}{course-information}
+*Course code* | AIE1901 ||
+*Course title* | AI Exploration I ||
+*Session* | 01: AI That Learns Throughout Its Lifetime ||
+*Units* | 2 ||
+*Instructional hours* | 2 hours per week (lecture and lab) ||
+*Meeting time* | Monday, 10:30am-12:20pm ||
+*Locations* | Lecture: TA301; Lab: C501
+~~~
+
+This project-based course introduces students to lifelong and adaptive AI by exploring how pretrained systems can acquire new capabilities, adjust to unfamiliar situations, and reuse past experience over time. Central to the course is the question of what it means for an AI system to learn: how can we distinguish rule execution, memorization, and generalization; and when can accumulated experience support better decisions in the future? Students will examine both the possibilities and limitations of AI systems that continue to evolve after deployment. Through a semester-long team project, students will investigate model behavior under changing data and task conditions and compare approaches for recognizing new concepts and learning across related tasks. No prior machine learning or programming experience is required.
+
+=== About the AI Exploration Series
+
+The AIE1901-AIE1904 course series employs a staged, project-based methodology designed to address students' AI learning needs at progressive levels. Each course provides a structured 14-week foundation in AI principles and tools. Through guided projects and real-world case studies, students cultivate interdisciplinary thinking and problem-solving competencies. The course also incorporates no-code AI projects to ensure accessibility for students without programming experience, enabling practical AI applications in academic settings. AIE1901 is the first one in this series.
+
+=== Prerequisites
+
+There are no prerequisites or co-requisites. No prior machine learning or programming experience is required.
+
+=== Session-Specific Learning Objectives
+
+Upon completion of this session, students will be able to:
+
+- Understand the goals and limitations of lifelong and adaptive AI.
+- Distinguish among rule execution, memorization, and generalization.
+- Customize and evaluate pretrained models in static and changing environments, and examine how task relationships, task complexity, and sample size affect generalization.
+- Compare zero-shot learning, transfer learning, and parameter-efficient fine-tuning for new concepts or changing conditions.
+- Understand catastrophic forgetting and evaluate how learning new tasks or concepts can affect previously acquired capabilities.
+- Collaborate in teams to create datasets, interpret results, and develop an adaptive AI system with a customized extension.
+
+=== Course Content
+
+==== Foundations and Generalization (Weeks 1-4)
+
+- Motivation, goals, and limitations of lifelong AI.
+- Model evaluation, generalization, overfitting, and distribution shift.
+- Dataset creation and testing under changing conditions.
+
+==== Adaptation Methods (Weeks 5-6)
+
+- Transfer learning and feature alignment.
+- Parameter-efficient fine-tuning and LoRA adapters.
+- Comparison with no-transfer and full fine-tuning baselines.
+
+==== Continual Learning (Weeks 8-11)
+
+- Continual adaptation across tasks and environments.
+- Catastrophic forgetting and the stability-plasticity challenge.
+- Replay, regularization-based methods, and parameter isolation.
+
+==== Advanced Extension and Team Project (Weeks 7 and 12-14)
+
+- Midterm project presentation.
+- Zero-shot generalization, in-context adaptation, and task-free continual learning.
+- Final project development and presentation.
+
+See the [index.html#schedule weekly schedule] for the detailed lecture, lab, and milestone plan.
+
+=== Assessment Scheme
+
+{{
+<table id="grading">
+  <tr><td><b>Component / Method</b></td><td><b>Weight</b></td></tr>
+  <tr><td>Assignments</td><td>40%</td></tr>
+  <tr><td>Middle-term Assessment</td><td>30%</td></tr>
+  <tr><td>Final-term Assessment</td><td>30%</td></tr>
+  <tr><td><b>Total</b></td><td><b>100%</b></td></tr>
+</table>
+}}
+
+=== Academic Honesty and Use of AI
+
+*Selected policy - Use only with explicit acknowledgement:* Students are allowed or expected to use AI tools in their learning process and assignment/project reports. However, students must explicitly cite or acknowledge these resources and explain how they were used in their submitted reports. The course instructor will provide specific examples. Failure to follow this rule will be considered academic dishonesty.
+
+Students are encouraged to use AI tools to assist their study and course homework. However, they need to state clearly where and how the tools are used and explain what their own intellectual efforts are in order to complete the task.
+
+Students must complete all coursework and assessments independently, unless AI tool use is explicitly permitted. Unauthorized use of AI may constitute academic dishonesty and harm learning. Misuse includes submitting AI-generated work as one's own, using AI to cheat, or employing AI unethically. Always obtain permission before using AI in academic work, and be sure to acknowledge any AI use in submissions.
+
+=== Evaluation and Feedback
+
+- A course questionnaire answered by every student after finishing the course.
+- Reflections from teachers of more advanced courses.
+- Feedback from informal conversation and email correspondence with students after class.
+
+[index.html {{<span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>}} Back to course homepage]
+
