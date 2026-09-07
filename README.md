@@ -2,7 +2,7 @@
 
 Course website for **Session 01 of AIE1901 AI Exploration I** at **The Chinese University of Hong Kong, Shenzhen**.
 
-The site uses the same Jemdoc project structure as the AIE6001 course website:
+The site uses the Jemdoc project structure:
 
 - `jemdoc_files/` contains the editable source.
 - `www/` contains the generated static site.
