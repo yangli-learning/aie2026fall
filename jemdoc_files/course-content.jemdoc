@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{course-content.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Course Content
+
+Lecture slides, additional readings, and lab materials for AIE1901, Session 01.
+
+[course-content.html#lectures Lectures] | [course-content.html#labs Labs]
+
+{{<div id="lectures"></div>}}
+=== Lectures
+
+==== Lecture 1: Lifelong AI
+
+- [materials/lectures/AIE1901-S1-Lifelong-AI.pdf Lecture slides (PDF)]
+- *Additional reading:* Chapter 1 of /Lifelong Machine Learning/, *2nd edition*, by Zhiyuan Chen and Bing Liu. [https://www.cs.uic.edu/~liub/lifelong-learning.html Book and reading information].
+
+{{<div id="labs"></div>}}
+=== Labs
+
+==== Lab 1: Teachable Machine
+
+- [materials/labs/Lab1.zip Download Lab 1 materials (ZIP)]
+
+The package contains the lab handout (Lab1\_Teachable\_Machine.pdf) and a rock-paper-scissors example project (Rock\_paper\_scissors\_example.tm).
+
+[index.html Back to course homepage]
