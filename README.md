@@ -22,3 +22,10 @@ python -m http.server 8000 --directory www
 ```
 
 Then visit `http://localhost:8000`.
+
+## Updating course materials
+
+- Edit `jemdoc_files/course-content.jemdoc` to add lecture slides and readings under Lectures, or lab materials and related assignments under Labs.
+- Store lecture files in `www/materials/lectures/` and lab files in `www/materials/labs/`, then link to them using paths relative to `www/` (for example, `materials/labs/Lab1.zip`).
+- Regenerate all pages with the command above so that navigation stays in sync. The generated HTML is ignored by Git; include the Jemdoc sources and material files when uploading changes.
+- Publish through the existing server deployment process. Local generation alone does not update the live website.
