@@ -7,7 +7,7 @@ Welcome to the website for *Session 01* of */AIE1901 AI Exploration I/* at *The 
 === Course Summary
 This project-based course introduces students to lifelong and adaptive AI by exploring how pretrained systems can acquire new capabilities, adjust to unfamiliar situations, and reuse past experience over time. Central to the course is the question of what it means for an AI system to learn: how can we distinguish rule execution, memorization, and generalization; and when can accumulated experience support better decisions in the future? Students will examine both the possibilities and limitations of AI systems that continue to evolve after deployment. Through a semester-long team project, students will investigate model behavior under changing data and task conditions and compare approaches for recognizing new concepts and learning across related tasks. No prior machine learning or programming experience is required.
 
-Our class meets every *Monday, 10:30am-12:20pm*. Lectures meet in *TA301* and labs meet in *C501*.
+Our class meets every *Monday, 10:30am-12:20pm*. Lectures meet in *TA301* and labs meet in *TxC501*.
 
 For the full learning objectives, assessment scheme, and AI-use policy, see the [syllabus.html Course Syllabus].
 
@@ -53,18 +53,18 @@ For lecture slides, additional readings, and lab materials, see [course-content.
         <th>Location</th>
     </tr>
     <tr><td>1</td><td>9/7/2026</td><td><b>Introduction to Lifelong AI</b><ul><li>Motivation for lifelong and adaptive AI</li><li>Course adaptation challenges and project overview</li><li>Form teams of 3-4 and select an image, audio, or pose-recognition application</li></ul></td><td>Team formation</td><td>TA301</td></tr>
-    <tr><td>2</td><td>9/14/2026</td><td><b>Building a First AI Model</b><ul><li>Prepare an initial dataset for later experiments</li><li>Build and test a first model with Google Teachable Machine</li></ul></td><td>Initial dataset and model</td><td>C501</td></tr>
+    <tr><td>2</td><td>9/14/2026</td><td><b>Building a First AI Model</b><ul><li>Prepare an initial dataset for later experiments</li><li>Build and test a first model with Google Teachable Machine</li></ul></td><td>Initial dataset and model</td><td>TxC501</td></tr>
     <tr><td>3</td><td>9/21/2026</td><td><b>Generalization and Model Evaluation</b><ul><li>Generalization, overfitting, and evaluation</li><li>Collect an independent test set</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>4</td><td>9/28/2026</td><td><b>Distribution Shift</b><ul><li>Changes in users, sensors, environments, and data collection</li><li>Compare performance on original and shifted data and inspect failure cases</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>4</td><td>9/28/2026</td><td><b>Distribution Shift</b><ul><li>Changes in users, sensors, environments, and data collection</li><li>Compare performance on original and shifted data and inspect failure cases</li></ul></td><td></td><td>TxC501</td></tr>
     <tr><td>5</td><td>10/5/2026</td><td><b>Transfer Learning</b><ul><li>Transfer learning with limited labeled data</li><li>Adapt a pretrained model to shifted data or a related task</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>6</td><td>10/12/2026</td><td><b>Parameter-Efficient Fine-Tuning</b><ul><li>Feature alignment and efficient adaptation</li><li>Compare a no-transfer baseline, fine-tuning, and a LoRA adapter</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>6</td><td>10/12/2026</td><td><b>Parameter-Efficient Fine-Tuning</b><ul><li>Feature alignment and efficient adaptation</li><li>Compare a no-transfer baseline, fine-tuning, and a LoRA adapter</li></ul></td><td></td><td>TxC501</td></tr>
     <tr><td>7</td><td>10/19/2026</td><td><b>Midterm Project Presentation</b><ul><li>Present the application scenario and adaptation results</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>8</td><td>10/26/2026</td><td><b>Continual Adaptation Across Tasks</b><ul><li>Update an AI system as new categories and tasks arrive</li><li>Compare independent adaptation with sequential updating</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>8</td><td>10/26/2026</td><td><b>Continual Adaptation Across Tasks</b><ul><li>Update an AI system as new categories and tasks arrive</li><li>Compare independent adaptation with sequential updating</li></ul></td><td></td><td>TxC501</td></tr>
     <tr><td>9</td><td>11/2/2026</td><td><b>Continual Adaptation Across Environments</b><ul><li>Study how prior experience helps or interferes with later adaptation</li><li>Evaluate performance across project stages</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>10</td><td>11/9/2026</td><td><b>Catastrophic Forgetting</b><ul><li>The stability-plasticity challenge in sequential learning</li><li>Measure degradation on earlier tasks after model updates</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>10</td><td>11/9/2026</td><td><b>Catastrophic Forgetting</b><ul><li>The stability-plasticity challenge in sequential learning</li><li>Measure degradation on earlier tasks after model updates</li></ul></td><td></td><td>TxC501</td></tr>
     <tr><td>11</td><td>11/16/2026</td><td><b>Continual-Learning Strategies</b><ul><li>Replay, regularization-based methods, and parameter isolation with adapters</li><li>Compare methods on new and previously learned tasks</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>12</td><td>11/23/2026</td><td><b>Advanced Topics and Final Project</b><ul><li>Zero-shot generalization, in-context adaptation, and task-free continual learning</li><li>Select one advanced extension</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>12</td><td>11/23/2026</td><td><b>Advanced Topics and Final Project</b><ul><li>Zero-shot generalization, in-context adaptation, and task-free continual learning</li><li>Select one advanced extension</li></ul></td><td></td><td>TxC501</td></tr>
     <tr><td>13</td><td>11/30/2026</td><td><b>Final Project Development</b><ul><li>Develop the selected extension using notebooks or a shared server when additional computation is needed</li></ul></td><td></td><td>TA301</td></tr>
-    <tr><td>14</td><td>12/7/2026</td><td><b>Final Project Presentation</b><ul><li>Present the advanced extension and project results</li><li>Discuss state-of-the-art topics and open challenges in adaptive AI</li></ul></td><td></td><td>C501</td></tr>
+    <tr><td>14</td><td>12/7/2026</td><td><b>Final Project Presentation</b><ul><li>Present the advanced extension and project results</li><li>Discuss state-of-the-art topics and open challenges in adaptive AI</li></ul></td><td></td><td>TxC501</td></tr>
 </table>
 }}
