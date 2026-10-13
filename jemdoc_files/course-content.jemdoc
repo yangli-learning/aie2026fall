@@ -20,6 +20,20 @@ Lecture slides, additional readings, and lab materials for AIE1901, Session 01.
 
 One reference resource is Chapter 5.1-5.21 in the Deep Learning Book: [https://www.deeplearningbook.org/contents/ml.html https://www.deeplearningbook.org/contents/ml.html]
 
+==== Lecture 3
+
+- [materials/lectures/Lecture3.pdf Lecture slides (PDF)]
+
+If you are interested in learning how deep learning works in detail, please checkout the following resouces (optional):
+
+Neural Network & Deep Learning Video Tutorials:
+- https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=2
+- https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Other resources: https://d2l.ai/index.html (website, textbook-style)
+
+This is another source: https://www.deeplearningbook.org/ (it covers more than deep learning, but math background as well)
+
 {{<div id="labs"></div>}}
 === Labs
 
