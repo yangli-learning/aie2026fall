@@ -34,6 +34,12 @@ Other resources: https://d2l.ai/index.html (website, textbook-style)
 
 This is another source: https://www.deeplearningbook.org/ (it covers more than deep learning, but math background as well)
 
+==== Lecture 4
+
+- [materials/lectures/Lecture4.pdf Lecture slides (PDF)]
+
+links to CNN video: [https://www.youtube.com/watch?v=n4lgQEmEUJM]
+
 {{<div id="labs"></div>}}
 === Labs
 
@@ -50,5 +56,10 @@ The package contains the lab handout (Lab1\_Teachable\_Machine.pdf) and a rock-p
 ==== Lab 2: Exploring Distribution Shift
 
 - [materials/labs/Lab2_Exploring_Distribution_Shift.pdf Download Lab 2 handout (PDF)]
+
+==== Lab 3: Transfer Learning Guideline
+
+- [materials/labs/Lab3.pdf Download Lab 3 handout (PDF)]
+-[materials/labs/AIE1901_Lab3.zip Download Lab3 code handout (zip)]
 
 [index.html Back to course homepage]
