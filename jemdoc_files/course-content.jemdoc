@@ -24,15 +24,15 @@ One reference resource is Chapter 5.1-5.21 in the Deep Learning Book: [https://w
 
 - [materials/lectures/Lecture3.pdf Lecture slides (PDF)]
 
-If you are interested in learning how deep learning works in detail, please checkout the following resouces (optional):
+If you are interested in learning how deep learning works in detail, please check out the following resources (optional):
 
 Neural Network & Deep Learning Video Tutorials:
-- https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=2
-- https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- [https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=2 Neural Network Video Tutorial]
+- [https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi Deep Learning Video Tutorial]
 
-Other resources: https://d2l.ai/index.html (website, textbook-style)
+Other resources: [https://d2l.ai/index.html Dive into Deep Learning] (website, textbook-style)
 
-This is another source: https://www.deeplearningbook.org/ (it covers more than deep learning, but math background as well)
+This is another source: [https://www.deeplearningbook.org/ Deep Learning Book] (it covers more than deep learning, but math background as well)
 
 ==== Lecture 4
 
@@ -59,7 +59,7 @@ The package contains the lab handout (Lab1\_Teachable\_Machine.pdf) and a rock-p
 
 ==== Lab 3: Transfer Learning Guideline
 
-- [materials/labs/Lab3.pdf Download Lab 3 handout (PDF)]
--[materials/labs/AIE1901_Lab3.zip Download Lab3 code handout (zip)]
+- [materials/labs/lab3.pdf Download Lab 3 handout (PDF)]
+- [materials/labs/AIE1901_Lab3.zip Download Lab 3 code (ZIP)]
 
 [index.html Back to course homepage]

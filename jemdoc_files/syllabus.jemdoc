@@ -14,7 +14,7 @@
 *Units* | 2 ||
 *Instructional hours* | 2 hours per week (lecture and lab) ||
 *Meeting time* | Monday, 10:30am-12:20pm ||
-*Locations* | Lecture: TA301; Lab: C501
+*Locations* | Lecture: TA301; Lab: TxC501
 ~~~
 
 This project-based course introduces students to lifelong and adaptive AI by exploring how pretrained systems can acquire new capabilities, adjust to unfamiliar situations, and reuse past experience over time. Central to the course is the question of what it means for an AI system to learn: how can we distinguish rule execution, memorization, and generalization; and when can accumulated experience support better decisions in the future? Students will examine both the possibilities and limitations of AI systems that continue to evolve after deployment. Through a semester-long team project, students will investigate model behavior under changing data and task conditions and compare approaches for recognizing new concepts and learning across related tasks. No prior machine learning or programming experience is required.
